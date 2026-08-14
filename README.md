@@ -91,7 +91,7 @@ Sitio para buscar películas y obtener recomendaciones personalizadas, desarroll
 
 **Stack:** `React` `JavaScript` `API`
 
-[🔗 Ver repositorio](https://github.com/EvaristoRT/MovieQuest)
+[🔗 Ver repositorio](https://github.com/EvaristoRT/MovieQuest) · [🌐 Ver proyecto](https://moviequest-two.vercel.app/)
 
 </td>
 </tr>
