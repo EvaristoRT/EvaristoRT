@@ -74,7 +74,7 @@ Soy **Evaristo Romero Tirado**, estudiante de Ingeniería en Sistemas Computacio
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌴 SoloVeracruzEsBello
 Página promocional del estado de Veracruz con blog integrado. Construida 100% con **HTML, CSS y JavaScript vanilla**.
@@ -84,7 +84,7 @@ Página promocional del estado de Veracruz con blog integrado. Construida 100% c
 [🔗 Ver repositorio](https://github.com/EvaristoRT/SoloVeracruzEsBello)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎬 MovieQuest
 Sitio para buscar películas y obtener recomendaciones personalizadas, desarrollado con **React**.
@@ -93,6 +93,21 @@ Sitio para buscar películas y obtener recomendaciones personalizadas, desarroll
 
 [🔗 Ver repositorio](https://github.com/EvaristoRT/MovieQuest) · [🌐 Ver proyecto](https://moviequest-two.vercel.app/)
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚧 SIGRIV (Hacka Regional)
+Plataforma de reportes ciudadanos para el monitoreo y gestión de la infraestructura vial. Proyecto desarrollado para el Hackatec Regional.
+
+**Stack:** `React` `Vite` `Supabase` `Python` `SQL`
+
+[🔗 Ver repositorio](https://github.com/EvaristoRT/HackatecRegional)
+
+</td>
+<td width="50%" valign="top">
+<!-- Espacio reservado para tu próximo gran proyecto -->
 </td>
 </tr>
 </table>
